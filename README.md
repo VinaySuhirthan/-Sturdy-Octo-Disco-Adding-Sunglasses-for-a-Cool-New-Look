@@ -38,7 +38,11 @@ import matplotlib.pyplot as plt
 faceImage = cv2.imread('psprt.jpg')
 plt.imshow(faceImage[:,:,::-1]);plt.title("Face")
 ```
-<img width="426" height="532" alt="image" src="https://github.com/user-attachments/assets/7cb7d7ac-3040-4e5c-bac2-2bcc16fc891a" />
+
+
+
+<img width="402" height="520" alt="Passport size photo" src="https://github.com/user-attachments/assets/f8dd6c24-3c91-40e6-b344-3ca18b11b6d3" />
+
 
 ```py
 faceImage.shape
