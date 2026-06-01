@@ -189,7 +189,8 @@ plt.subplot(121); plt.imshow(cv2.cvtColor(cv2.imread("psprt.jpg"),cv2.COLOR_BGR2
 plt.subplot(122); plt.imshow(cv2.cvtColor(face,cv2.COLOR_BGR2RGB)); plt.title("With Sunglasses")
 plt.show()
 ```
-<img width="1308" height="790" alt="image" src="https://github.com/user-attachments/assets/30a6b01c-6fac-48ab-8937-4a8c23ff7c07" />
+<img width="632" height="408" alt="image" src="https://github.com/user-attachments/assets/71d2a655-3ddb-4d06-b733-0b42622825fc" />
+
 
 
 Feel free to fork, contribute, or customize this project for your creative needs!
